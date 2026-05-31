@@ -1,0 +1,12 @@
+body {
+    font-family: "Victor Mono";
+}
+
+.titulo {
+    color: indigo;
+    text-decoration: underline;
+}
+
+p {
+    font-weight: bold;
+}
